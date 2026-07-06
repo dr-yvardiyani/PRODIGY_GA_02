@@ -1,1 +1,1 @@
-ss for Task 02
+Project screenshots demonstrating image generation workflow and outputs.
