@@ -18,10 +18,10 @@ Generate high-quality healthcare-themed images from text prompts using Stable Di
 ## Prompts Used
 
 ### Prompt 1
-A modern hospital pharmacy with automated medicine dispensing systems, organized shelves, advanced healthcare technology, ultra realistic, professional medical environment.
+A modern hospital pharmacy with organized medicine shelves, clean clinical environment, bright lighting, realistic healthcare infrastructure, professional medical facility, ultra realistic.
 
 ### Prompt 2
-A futuristic robotic pharmacy with automated medication storage and dispensing technology, highly detailed, realistic healthcare infrastructure, modern medical facility.
+A contemporary hospital reception and waiting area with modern furnishings, bright lighting, clean healthcare infrastructure, realistic medical facility interior, ultra realistic.
 
 ---
 
