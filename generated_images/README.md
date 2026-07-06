@@ -1,1 +1,1 @@
-Generated images for Task 02
+Generated images created using Stable Diffusion for Task 02.
