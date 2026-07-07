@@ -35,12 +35,31 @@ A contemporary hospital reception and waiting area with modern furnishings, brig
 
 ---
 
+## Model
+
+Stable Diffusion v1.5 using Hugging Face Diffusers.
+
+---
+
 ## Generated Outputs
 
 • Modern Hospital Pharmacy
 • Contemporary Hospital Reception
 Both images were generated from natural language prompts using Stable Diffusion without manual editing.
 
+## Screenshots
+
+### Generation Process
+
+![Process](screenshots/task2_generation_process.png)
+
+### Pharmacy Output
+
+![Output](screenshots/task2_pharmacy_generation.png)
+
+### Hospital Lobby
+
+![Output](screenshots/task2_lobby_generation.png)
 ## Generated Images
 
 ### Hospital Pharmacy
