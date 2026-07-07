@@ -5,7 +5,7 @@
 ### Overview
 This project demonstrates text-to-image generation using Stable Diffusion. The objective was to generate realistic healthcare-related images from natural language prompts.
 
-The generated images focus on modern pharmacy infrastructure and automated medication dispensing environments, showcasing the capabilities of diffusion-based generative AI models.
+The generated images depict realistic healthcare environments, including a modern hospital pharmacy and a contemporary hospital reception area, demonstrating the capabilities of Stable Diffusion for healthcare-themed image generation.
 
 ---
 
@@ -43,8 +43,9 @@ Stable Diffusion v1.5 using Hugging Face Diffusers.
 
 ## Generated Outputs
 
-• Modern Hospital Pharmacy
-• Contemporary Hospital Reception
+- Modern Hospital Pharmacy
+- Contemporary Hospital Reception
+
 Both images were generated from natural language prompts using Stable Diffusion without manual editing.
 
 ## Screenshots
@@ -60,6 +61,9 @@ Both images were generated from natural language prompts using Stable Diffusion 
 ### Hospital Lobby
 
 ![Output](screenshots/task2_lobby_generation.png)
+
+---
+
 ## Generated Images
 
 ### Hospital Pharmacy
@@ -83,6 +87,7 @@ PRODIGY_GA_02
 │
 ├── screenshots/
 │
+├── .gitignore
 ├── PRODIGY_GA_02_Stable_Diffusion.ipynb
 ├── requirements.txt
 ├── README.md
