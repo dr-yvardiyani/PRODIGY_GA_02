@@ -27,28 +27,47 @@ A contemporary hospital reception and waiting area with modern furnishings, brig
 
 ## Technologies Used
 
-- Stable Diffusion
 - Python
 - Google Colab
+- Stable Diffusion
 - Hugging Face Diffusers
+- PyTorch
 
 ---
 
-## Outputs
+## Generated Outputs
 
-Two healthcare-themed images were generated successfully from the provided prompts.
+• Modern Hospital Pharmacy
+• Contemporary Hospital Reception
+Both images were generated from natural language prompts using Stable Diffusion without manual editing.
 
+## Generated Images
+
+### Hospital Pharmacy
+
+![Pharmacy](generated_images/pharmacy_image_1.png)
+
+---
+
+### Hospital Reception
+
+![Lobby](generated_images/hospital_lobby_image_2.png)
 ---
 
 ## Repository Structure
 
 PRODIGY_GA_02
-
+│
 ├── generated_images/
-
+│   ├── pharmacy_image_1.png
+│   └── hospital_lobby_image_2.png
+│
+├── screenshots/
+│
+├── PRODIGY_GA_02_Stable_Diffusion.ipynb
+├── requirements.txt
 ├── README.md
-
-└── requirements.txt
+└── LICENSE
 
 ---
 
