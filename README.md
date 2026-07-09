@@ -1,5 +1,7 @@
 # PRODIGY_GA_02
 
+## Task 02 - Generative AI Internship @ Prodigy InfoTech
+
 ## Healthcare Image Generation using Stable Diffusion
 
 ### Overview
@@ -12,6 +14,16 @@ The generated images depict realistic healthcare environments, including a moder
 ## Project Objective
 
 Generate high-quality healthcare-themed images from text prompts using Stable Diffusion.
+
+---
+
+## Features
+
+Text-to-image generation using Stable Diffusion
+Healthcare-focused image creation
+Natural language prompt-based generation
+High-quality realistic image synthesis
+Implemented in Google Colab
 
 ---
 
@@ -35,9 +47,21 @@ A contemporary hospital reception and waiting area with modern furnishings, brig
 
 ---
 
-## Model
+## Model Details 
 
-Stable Diffusion v1.5 using Hugging Face Diffusers.
+- Model: Stable Diffusion v1.5
+- Framework: Hugging Face Diffusers
+- Generation Method: Text-to-Image Synthesis
+
+---
+
+## Project Workflow
+1. Installed Stable Diffusion dependencies.
+2. Loaded the Stable Diffusion v1.5 model.
+3. Created healthcare-focused text prompts.
+4. Generated images using text-to-image synthesis.
+5. Saved and visualized generated outputs.
+6. Evaluated image quality and realism.
 
 ---
 
@@ -47,6 +71,17 @@ Stable Diffusion v1.5 using Hugging Face Diffusers.
 - Contemporary Hospital Reception
 
 Both images were generated from natural language prompts using Stable Diffusion without manual editing.
+
+---
+
+## Results
+
+- Successfully generated realistic healthcare-themed images from text prompts.
+- Produced detailed hospital pharmacy and reception area scenes.
+- Demonstrated the effectiveness of Stable Diffusion for healthcare-related image generation.
+- Generated images without manual editing or post-processing.
+
+---
 
 ## Screenshots
 
@@ -75,6 +110,7 @@ Both images were generated from natural language prompts using Stable Diffusion 
 ### Hospital Reception
 
 ![Lobby](generated_images/hospital_lobby_image_2.png)
+
 ---
 
 ## Repository Structure
@@ -94,7 +130,3 @@ PRODIGY_GA_02
 └── LICENSE
 
 ---
-
-## Internship Information
-
-Completed as part of the Generative AI Internship Program at Prodigy InfoTech.
