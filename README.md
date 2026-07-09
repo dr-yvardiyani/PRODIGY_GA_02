@@ -74,15 +74,6 @@ Both images were generated from natural language prompts using Stable Diffusion 
 
 ---
 
-## Results
-
-- Successfully generated realistic healthcare-themed images from text prompts.
-- Produced detailed hospital pharmacy and reception area scenes.
-- Demonstrated the effectiveness of Stable Diffusion for healthcare-related image generation.
-- Generated images without manual editing or post-processing.
-
----
-
 ## Screenshots
 
 ### Generation Process
